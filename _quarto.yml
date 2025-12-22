@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Wookyoung"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: fav.qmd
+        text: Favorite
+      - href: myfuture.qmd
+        text: My Future
+
+format:
+  html:
+    theme: cosmo
+    toc: true
