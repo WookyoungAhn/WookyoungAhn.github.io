@@ -1,0 +1,18 @@
+---
+title: "My favorite things"
+format: html
+---
+
+Let me introduce you to some of my favorite things.
+
+![](images/clipboard-2688890778.jpeg)
+
+I love ice cream, especially vanilla ice cream.
+
+![](webpage/images/wk01.png)
+
+One of my favorite is cute animal! I like hamster, puppy, kitten, lizard.
+
+![](webpage/images/wk02.jpg)
+
+I have 5 lizards. This lizard looks like my Dorong, Crested gecko.
