@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "fav.html",
+    "href": "fav.html",
+    "title": "My favorite things",
     "section": "",
-    "text": "Hello, I’m Wookyoung Ahn, welcome to my site! I’m a junior student in the English Language and Literature Department at KSNU. I love English!\nI took a computer English class for one semester and studied a lot of things, including RStudio."
+    "text": "Let me introduce you to some of my favorite things.\n\nI love ice cream, especially vanilla ice cream.\n\nOne of my favorite is cute animal! I like hamster, puppy, kitten, lizard.\n\nI have 5 lizards. This lizard looks like my Dorong, Crested gecko."
   },
   {
     "objectID": "lm.html",
@@ -12,6 +12,13 @@
     "title": "Language Models",
     "section": "",
     "text": "Hi!\nwe analyzed text from William Shakespear’s novel."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hello, I’m Wookyoung Ahn, welcome to my site! I’m a junior student in the English Language and Literature Department at KSNU. I love English!\nI took a computer English class for one semester and studied a lot of things, including RStudio."
   },
   {
     "objectID": "index.html",
@@ -26,13 +33,6 @@
     "title": "Home",
     "section": "",
     "text": "welcome to my homepage!"
-  },
-  {
-    "objectID": "fav.html",
-    "href": "fav.html",
-    "title": "My favorite things",
-    "section": "",
-    "text": "Let me introduce you to some of my favorite things.\n\nI love ice cream, especially vanilla ice cream.\n\nOne of my favorite is cute animal! I like hamster, puppy, kitten, lizard.\n\nI have 5 lizards. This lizard looks like my Dorong, Crested gecko."
   },
   {
     "objectID": "myfuture.html",
