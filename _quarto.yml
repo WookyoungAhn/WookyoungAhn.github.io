@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Wookyoung"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: lm.qmd
+        text: Language Models
+      - href: fav.qmd
+        text: Favorite
+      - href: myfuture.qmd
+        text: My Future
+
+format:
+  html:
+    theme: flatly
+    toc: true
