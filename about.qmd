@@ -1,8 +1,0 @@
----
-title: "About"
-format: html
----
-
-Hello, I'm Wookyoung Ahn, welcome to my site! I'm a junior student in the English Language and Literature Department at KSNU. I love English!
-
-I took a computer English class for one semester and studied a lot of things, including RStudio.
